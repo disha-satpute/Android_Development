@@ -1,3 +1,5 @@
+//java file 
+
 package com.example.camera;
 
 import android.content.Intent;
@@ -38,4 +40,5 @@ public class MainActivity extends AppCompatActivity {
             }
         }
     }
+    
 }

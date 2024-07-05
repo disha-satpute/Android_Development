@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <Button
+        android:id="@+id/btnTurnOn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Turn On Bluetooth"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"/>
+    <Button
+        android:id="@+id/btnTurnOff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Turn Off Bluetooth"
+        android:layout_below="@id/btnTurnOn"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"/>
+    <Button
+        android:id="@+id/buttonList"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="List device"
+        android:layout_below="@id/btnTurnOff"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"/>
+    <ListView
+        android:id="@+id/listViewDevices"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="16dp"
+        android:layout_below="@id/visible"
+        android:divider="@android:color/darker_gray"
+        android:dividerHeight="1dp"
+        android:padding="16dp" />
+    <Button
+        android:id="@+id/visible"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="set visible"
+        android:layout_below="@id/buttonList"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"/>
+</RelativeLayout>

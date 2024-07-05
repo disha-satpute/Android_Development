@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="222dp"
+        android:layout_height="52dp"
+        android:layout_x="98dp"
+        android:layout_y="238dp"
+        android:text="This is Second Activity"
+        tools:layout_editor_absoluteX="101dp"
+        tools:layout_editor_absoluteY="228dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="222dp"
+        android:layout_height="53dp"
+        android:layout_x="99dp"
+        android:layout_y="359dp"
+        android:text="An example of Explicit Intent"
+        tools:layout_editor_absoluteX="101dp"
+        tools:layout_editor_absoluteY="122dp" />
+</AbsoluteLayout>

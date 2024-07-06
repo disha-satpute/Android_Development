@@ -11,3 +11,10 @@ their applications such as :
 - Google map functionality
 or other communications directly from the app.
 
+
+## Installation
+- Just, Clone this repository - 
+````bash 
+git clone https://github.com/disha-satpute/Android.Development.git
+````
+- Run File Using Any Android Studio 

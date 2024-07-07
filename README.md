@@ -9,6 +9,7 @@ their applications such as :
 - Animation like zoom-in,zoom-out
 - Database Operations such as insert,update,delete,retrieve data
 - Google map functionality
+- Simple Toast Message
 or other communications directly from the app.
 
 

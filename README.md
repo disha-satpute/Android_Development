@@ -11,7 +11,7 @@ their applications such as :
 - Google map functionality
 - Simple Toast Message
 - Implicit Intent
-or other communications directly from the app.
+- Explicit Intent
 
 
 ## Installation

@@ -10,7 +10,8 @@ their applications such as :
 - Database Operations such as insert,update,delete,retrieve data
 - Google map functionality
 - Simple Toast Message
-or other communications directly from the app.
+- Implicit Intent
+- Explicit Intent
 
 
 ## Installation

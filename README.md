@@ -1,5 +1,4 @@
 # Android Development
-
 This guide is perfect for Android developers who need to integrate different functionalities into 
 their applications such as :
 - Allowing users to click photos
@@ -12,7 +11,7 @@ their applications such as :
 - Simple Toast Message
 - Implicit Intent
 - Explicit Intent
-
+- Login page with authentication
 
 ## Installation
 - Just, Clone this repository - 

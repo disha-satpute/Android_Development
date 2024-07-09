@@ -12,6 +12,7 @@ their applications such as :
 - Implicit Intent
 - Explicit Intent
 - Login page with authentication
+- Radio Button
 
 ## Installation
 - Just, Clone this repository - 

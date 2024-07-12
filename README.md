@@ -11,6 +11,7 @@ their applications such as :
 - Simple Toast Message
 - Implicit Intent
 - Explicit Intent
+- Relative Layout
 - Login page with authentication
 - Radio Button
 - Radio Group Button

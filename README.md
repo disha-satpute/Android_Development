@@ -12,6 +12,7 @@ their applications such as :
 - Implicit Intent
 - Explicit Intent
 - Relative Layout, Frame Layout
+- GridView
 - Login page with authentication
 - Radio Button
 - Radio Group Button

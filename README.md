@@ -18,6 +18,7 @@ their applications such as :
 - Radio Group Button
 - Progress Bar
 - Sensor List
+- Aeroplane Mode on-off
 
 ## Installation
 - Just, Clone this repository - 

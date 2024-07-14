@@ -16,6 +16,7 @@ their applications such as :
 - Login page with authentication
 - Radio Button
 - Radio Group Button
+- Progress Bar
 
 ## Installation
 - Just, Clone this repository - 

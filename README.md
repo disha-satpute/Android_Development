@@ -17,6 +17,7 @@ their applications such as :
 - Radio Button
 - Radio Group Button
 - Progress Bar
+- Sensor List
 
 ## Installation
 - Just, Clone this repository - 

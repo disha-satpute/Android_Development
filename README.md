@@ -1,6 +1,5 @@
-# Android Development
-This guide is perfect for Android developers who need to integrate different functionalities into 
-their applications such as :
+# 📱Android Development
+This guide is perfect for Android developers who need to integrate different functionalities into their applications
 - Implicit Intent
 - Explicit Intent
 - Relative Layout, Frame Layout
@@ -29,4 +28,4 @@ their applications such as :
 ````bash 
 git clone https://github.com/disha-satpute/Android.Development.git
 ````
-- Run File Using Any Android Studio 
+- Open the project in your preferred IDE (e.g., Android Studio) and build the project.

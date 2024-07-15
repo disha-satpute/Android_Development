@@ -1,6 +1,10 @@
 # Android Development
 This guide is perfect for Android developers who need to integrate different functionalities into 
 their applications such as :
+- Implicit Intent
+- Explicit Intent
+- Relative Layout, Frame Layout
+- GridView
 - Allowing users to click photos
 - Recording videos
 - Send emails for feedback
@@ -9,13 +13,16 @@ their applications such as :
 - Database Operations such as insert,update,delete,retrieve data
 - Google map functionality
 - Simple Toast Message
-- Implicit Intent
-- Explicit Intent
-- Relative Layout, Frame Layout
-- GridView
 - Login page with authentication
 - Radio Button
 - Radio Group Button
+- Progress Bar
+- Sensor List
+- Aeroplane Mode on-off
+- Bluetooth Connectivity
+- Bluetooth Toggle
+- Image Button
+- Vertical Scroll View
 
 ## Installation
 - Just, Clone this repository - 

@@ -22,6 +22,7 @@ their applications such as :
 - Bluetooth Connectivity
 - Bluetooth Toggle
 - Image Button
+- Vertical Scroll View
 
 ## Installation
 - Just, Clone this repository - 

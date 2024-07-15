@@ -20,6 +20,7 @@ their applications such as :
 - Sensor List
 - Aeroplane Mode on-off
 - Bluetooth Connectivity
+- Bluetooth Toggle
 - Image Button
 
 ## Installation

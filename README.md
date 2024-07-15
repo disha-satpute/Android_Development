@@ -19,6 +19,7 @@ their applications such as :
 - Progress Bar
 - Sensor List
 - Aeroplane Mode on-off
+- Bluetooth Connectivity
 - Image Button
 
 ## Installation

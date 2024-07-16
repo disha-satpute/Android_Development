@@ -14,7 +14,7 @@ In this Repository we add Multiple Android Functionalities that we used in our d
 - Login page with authentication
 - Radio Button
 - Radio Group Button
-- Progress Bar
+- Progress Bar, circular Progress Bar
 - Sensor List
 - Aeroplane Mode on-off
 - Bluetooth Connectivity

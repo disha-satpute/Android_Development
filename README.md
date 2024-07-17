@@ -3,7 +3,7 @@ This guide is perfect for Android developers who need to integrate different fun
 In this Repository we add Multiple Android Functionalities that we used in our day-to-day life.
 
 - Implicit Intent, Explicit Intent
-- Relative Layout, Frame Layout
+- Relative Layout, Frame Layout ,Linear Layout
 - GridView
 - Simple Calculator
 - Allowing users to click photos, Recording videos
@@ -23,7 +23,7 @@ In this Repository we add Multiple Android Functionalities that we used in our d
 - Image Button
 - Vertical Scroll View
 - Search Engine
-- Database Operations such as insert,update,delete,retrieve data
+- Database Operations such as insert, update, delete, retrieve data.
 
 ## Installation
 - Just, Clone this repository - 

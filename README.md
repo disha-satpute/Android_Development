@@ -5,9 +5,9 @@ In this Repository we add Multiple Android Functionalities that we used in our d
 - Implicit Intent, Explicit Intent
 - Relative Layout, Frame Layout
 - GridView
-- Calculator
+- Simple Calculator
 - Allowing users to click photos, Recording videos
-- Send emails for feedback
+- Send emails.
 - Send and Receive SMS
 - Animation like zoom-in,zoom-out
 - Google map functionality

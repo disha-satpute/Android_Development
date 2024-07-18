@@ -23,6 +23,7 @@ In this Repository we add Multiple Android Functionalities that we used in our d
 - Image Button
 - Vertical Scroll View
 - Search Engine
+- Change Image
 - Database Operations such as insert, update, delete, retrieve data.
 
 ## Installation

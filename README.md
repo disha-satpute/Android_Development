@@ -13,6 +13,7 @@ In this Repository we add Multiple Android Functionalities that we used in our d
 - Google map functionality
 - Simple Toast Message
 - Login page with authentication
+- Checkbox
 - Radio Button
 - Radio Group Button
 - Progress Bar, circular Progress Bar
@@ -23,6 +24,7 @@ In this Repository we add Multiple Android Functionalities that we used in our d
 - Image Button
 - Vertical Scroll View
 - Search Engine
+- Change Image
 - Database Operations such as insert, update, delete, retrieve data.
 
 ## Installation

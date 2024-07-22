@@ -12,6 +12,7 @@ In this Repository we add Multiple Android Functionalities that we used in our d
 - Animation like zoom-in,zoom-out
 - Google map functionality
 - Simple Toast Message
+- Custom Toast Message
 - Login page with authentication
 - Checkbox
 - Radio Button

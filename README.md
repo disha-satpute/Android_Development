@@ -15,7 +15,7 @@ In this Repository we add Multiple Android Functionalities that we used in our d
 - Custom Toast Message
 - List and Toast
 - Login page with authentication
-- Checkbox
+- Checkbox Evaluation
 - Radio Button
 - Radio Group Button
 - Progress Bar, circular Progress Bar

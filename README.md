@@ -27,7 +27,7 @@ The functions added are :
 - Vertical Scroll View
 - Search Engine
 - Change Image
-- Database Operations such as insert, update, delete, retrieve data.
+- Database Operations such as insert, update, delete, retrieve data
 
 ## Installation
 - Just, Clone this repository - 

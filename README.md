@@ -26,7 +26,7 @@ The functions added are :
 - Image Button
 - Vertical Scroll View
 - Search Engine
-- Change Image
+- Change Image Button
 - Database Operations such as insert, update, delete, retrieve data
 
 ## Installation

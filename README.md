@@ -18,6 +18,7 @@ The functions added are :
 - Checkbox Evaluation
 - Radio Button
 - Radio Group Button
+- Toggle Button
 - Progress Bar, circular Progress Bar
 - Sensor List
 - Aeroplane Mode on-off

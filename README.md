@@ -15,6 +15,7 @@ The functions added are :
 - Custom Toast Message
 - List and Toast
 - Login page with authentication
+- Login form and retrive data
 - Checkbox Evaluation
 - Radio Button
 - Radio Group Button

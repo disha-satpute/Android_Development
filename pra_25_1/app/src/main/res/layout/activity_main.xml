@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="286dp"
+        android:layout_height="240dp"
+        android:layout_x="63dp"
+        android:layout_y="79dp"
+        android:src="@drawable/img" />
+    <Button
+        android:id="@+id/zoomin"
+        android:layout_width="153dp"
+        android:layout_height="wrap_content"
+        android:layout_x="42dp"
+        android:layout_y="454dp"
+        android:text="Zoom In" />
+    <Button
+        android:id="@+id/zoomout"
+        android:layout_width="158dp"
+        android:layout_height="wrap_content"
+        android:layout_x="218dp"
+        android:layout_y="454dp"
+        android:text="Zoom Out" />
+    <Button
+        android:id="@+id/rotateC"
+        android:layout_width="153dp"
+        android:layout_height="wrap_content"
+        android:layout_x="43dp"
+        android:layout_y="516dp"
+        android:text="Clockvise" />
+    <Button
+        android:id="@+id/fade_in"
+        android:layout_width="153dp"
+        android:layout_height="wrap_content"
+        android:layout_x="45dp"
+        android:layout_y="581dp"
+        android:text="Fade In" />
+    <Button
+        android:id="@+id/fade_out"
+        android:layout_width="153dp"
+        android:layout_height="wrap_content"
+        android:layout_x="221dp"
+        android:layout_y="581dp"
+        android:text="Fade OUt" />
+    <Button
+        android:id="@+id/rotateA"
+        android:layout_width="153dp"
+        android:layout_height="wrap_content"
+        android:layout_x="222dp"
+        android:layout_y="516dp"
+        android:text="Anti clockvise" />
+</AbsoluteLayout>

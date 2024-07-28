@@ -1,7 +1,7 @@
 ## 📱Android Development
 This guide is perfect for Android developers who need to integrate different functionalities into their applications.
 In this Repository we add Multiple Android Functionalities that we used in our day-to-day life.
-The functions added are :
+The functions added are -
 - Implicit Intent, Explicit Intent
 - Relative Layout, Frame Layout ,Linear Layout
 - GridView
@@ -15,6 +15,7 @@ The functions added are :
 - Custom Toast Message
 - List and Toast
 - Login page with authentication
+- Login form and retrive data
 - Checkbox Evaluation
 - Radio Button
 - Radio Group Button

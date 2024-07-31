@@ -9,7 +9,7 @@ The functions added are -
 - Allowing users to click photos, Recording videos
 - Send emails.
 - Send and Receive SMS
-- Animation like zoom-in,zoom-out
+- Animation like zoom-in,zoom-out,fade-in,fade-out
 - Google map functionality
 - Simple Toast Message
 - Custom Toast Message

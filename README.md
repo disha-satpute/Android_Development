@@ -15,14 +15,14 @@ The functions added are -
 - Custom Toast Message
 - List and Toast
 - Login page with authentication
-- Login form and retrive data
+- Login form and retrieve data
 - Checkbox Evaluation
 - Radio Button
 - Radio Group Button
 - Toggle Button
 - Progress Bar, circular Progress Bar
 - Sensor List
-- Aeroplane Mode on-off
+- Aero plane Mode on-off
 - Bluetooth Connectivity
 - Bluetooth Toggle
 - Image Button

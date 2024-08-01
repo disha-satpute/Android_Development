@@ -13,7 +13,7 @@ The functions added are -
 - Google map functionality
 - Simple Toast Message
 - Custom Toast Message
-- List and Toast
+- List and Toast Message
 - Login page with authentication
 - Login form and retrieve data
 - Checkbox Evaluation

@@ -4,7 +4,7 @@ In this Repository we add Multiple Android Functionalities that we used in our d
 The functions added are -
 - Implicit Intent, Explicit Intent
 - Relative Layout, Frame Layout ,Linear Layout
-- GridView
+- GridView Layout
 - Simple Calculator
 - Allowing users to click photos, Recording videos
 - Send emails.

@@ -27,7 +27,7 @@ The functions added are -
 - Bluetooth Toggle
 - Image Button
 - Vertical Scroll View
-- Search Engine
+- Search Engine like google,youtube
 - Change Image Button
 - Database Operations such as insert, update, delete, retrieve data.
 

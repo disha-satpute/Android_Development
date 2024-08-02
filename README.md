@@ -1,6 +1,6 @@
 ## 📱Android Development
 This guide is perfect for Android developers who need to integrate different functionalities into their applications.
-In this Repository we add Multiple Android Functionalities that we used in our day-to-day life.<br>
+In this Repository we add Multiple Android Functionalities that we used in our day-to-day life.<br></hr>
 The functions added are -
 - Implicit Intent, Explicit Intent
 - Relative Layout, Frame Layout ,Linear Layout

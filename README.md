@@ -30,7 +30,7 @@ The functions added are -
 - Search Engine like google,youtube
 - Change Image Button
 - Database Operations such as insert, update, delete, retrieve data.
-
+<hr/>
 ## Installation
 - Just, Clone this repository - 
 ````bash 

@@ -1,10 +1,10 @@
 ## 📱Android Development
 This guide is perfect for Android developers who need to integrate different functionalities into their applications.
-In this Repository we add Multiple Android Functionalities that we used in our day-to-day life.
-The functions added are -
+In this Repository we add Multiple Android Functionalities that we used in our day-to-day life.<hr/>
+🎯The functions added are -
 - Implicit Intent, Explicit Intent
 - Relative Layout, Frame Layout ,Linear Layout
-- GridView
+- GridView Layout
 - Simple Calculator
 - Allowing users to click photos, Recording videos
 - Send emails.
@@ -13,7 +13,7 @@ The functions added are -
 - Google map functionality
 - Simple Toast Message
 - Custom Toast Message
-- List and Toast
+- List and Toast Message
 - Login page with authentication
 - Login form and retrieve data
 - Checkbox Evaluation
@@ -27,9 +27,10 @@ The functions added are -
 - Bluetooth Toggle
 - Image Button
 - Vertical Scroll View
-- Search Engine
+- Search Engine like google,youtube
 - Change Image Button
-- Database Operations such as insert, update, delete, retrieve data
+- Database Operations such as insert, update, delete, retrieve data.
+<hr/>
 
 ## Installation
 - Just, Clone this repository - 

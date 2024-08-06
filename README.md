@@ -32,9 +32,9 @@ In this Repository we add Multiple Android Functionalities that we used in our d
 - Database Operations such as insert, update, delete, retrieve data.
 <hr/>
 
-## Installation
-- Just, Clone this repository - 
-````bash 
+## ☑️Installation
+- Just, Clone this repository -
+````bash
 git clone https://github.com/disha-satpute/Android.Development.git
 ````
 - Open the project in your preferred IDE (e.g., Android Studio) and build the project.
